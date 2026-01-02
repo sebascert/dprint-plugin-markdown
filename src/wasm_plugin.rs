@@ -115,6 +115,7 @@ impl SyncPluginHandler<Configuration> for MarkdownPluginHandler {
         "svelte" => Some("svelte"),
         "vue" => Some("vue"),
         "astro" => Some("astro"),
+        "scm" => Some("scm"),
         "yml" | "yaml" => Some("yaml"),
         "graphql" => Some("graphql"),
         "python" | "py" => Some("py"),

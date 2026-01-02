@@ -17,6 +17,7 @@
     "https://plugins.dprint.dev/json-0.19.1.wasm",
     "https://plugins.dprint.dev/markdown-0.16.3.wasm",
     "https://plugins.dprint.dev/toml-0.5.4.wasm",
-    "https://plugins.dprint.dev/exec-0.4.4.json@c207bf9b9a4ee1f0ecb75c594f774924baf62e8e53a2ce9d873816a408cecbf7"
+    "https://plugins.dprint.dev/exec-0.4.4.json@c207bf9b9a4ee1f0ecb75c594f774924baf62e8e53a2ce9d873816a408cecbf7",
+    "https://github.com/sebascert/dprint-plugin-markdown@34c01240af4e415da3100397d6676f67589068dce4baa48893e8ab43523044f9"
   ]
 }
